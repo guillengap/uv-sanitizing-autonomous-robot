@@ -1,5 +1,5 @@
 # uv-sanitizing-autonomous-robot
-## Folder's Content:
+## Content:
 ### version_1 : source codes first version of the project.
 ### version_2 : source codes second version of the project.
 ### stl_files : all stl files used in both versions of this project..
