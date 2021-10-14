@@ -1,4 +1,4 @@
-# AUTHOR: GUILLERMO PEREZ GUILLEN
+// AUTHOR: GUILLERMO PEREZ GUILLEN
 
 #include <Arduino.h>
 #include <NewPing.h> // SRFO4
@@ -34,8 +34,8 @@ NewPing sonar(UltrasonicPin, UltrasonicPin, MaxDistance); // SRFO4
 #define WIFI_SSID "XXXXXXXXXX"
 #define WIFI_PASS "XXXXXXXXXX"
 
-#define LAMP_1 "lamp one"
-#define LAMP_2 "lamp two"
+#define LAMP_1 "lamp"
+#define LAMP_2 "car"
 
 fauxmoESP fauxmo;
 
