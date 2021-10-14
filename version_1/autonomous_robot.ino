@@ -1,5 +1,4 @@
 // AUTHOR: GUILLERMO PEREZ GUILLEN
-// Project: TESLA Robot
 
 #define ENA 3
 #define ENB 5
